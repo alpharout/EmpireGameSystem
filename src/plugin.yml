@@ -1,0 +1,4 @@
+name: EmpireGameSystem
+author: alphaR0ut
+version: 0.01
+main: de.alpharout.egs.main.GameSystem
